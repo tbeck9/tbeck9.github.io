@@ -30,19 +30,19 @@
 
 .accordion {
   max-width: 500px;
-  border: 1px solid #000;
+  border: 1px solid #1c1c1c;
   border-bottom: none;
 }
 
 .accordion:last-child {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #1c1c1c;
 }
 
 .accordion-header {
   display: flex;
   padding: 16px;
   cursor: pointer;
-  background-color: #F2F2F2;
+  background-color: #93bd20;
 }
 
 .accordion-title {
@@ -66,19 +66,22 @@
 
 
 
-<section id="volunteer-work">
+<section id="courses-taken">
 
-<h2>Volunteer Work</h2>
+<h2>Relevant Courses Taken</h2>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">First Volunteer Opportunity - <strong>2014</strong></div>
+      <div class="accordion-title">First Course - <strong>Web Design</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         <ul>
-          <li>First task I completed</li>
+          <h1>Tasks Completed in Course:</h1>
+
+          <li>Designed a website</li>
+          <li>Created a website</li>
+          <li>Published a website</li>
 
         </ul>
     </div>
@@ -86,111 +89,69 @@
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Second Volunteer Opportunity</div>
+      <div class="accordion-title">Second Course - <strong>JavaScript</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      <ul>
+        <h1>Tasks Completed in Course:</h1>
+
+        <li>Learned the basics of JavaScript</li>
+        <li>Understood the different elements</li>
+        <li>Developed a professional portfolio</li>
+
+      </ul>
     </div>
 </div>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Third Volunteer Opportunity</div>
+      <div class="accordion-title">Third Course - <strong>Python</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      <ul>
+        <h1>Tasks Completed in Course:</h1>
+
+        <li>Learned the basics of Python</li>
+        <li>Problem solved and analyzed coding</li>
+        <li>Developed a game within Python</li>
+
+      </ul>
     </div>
 </div>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Fourth Volunteer Opportunity</div>
+      <div class="accordion-title">Fourth Course - <strong>PC Operating Systems</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      <ul>
+        <h1>Tasks Completed in Course:</h1>
+
+        <li>Learned functions and features of the operating environment</li>
+        <li>Installation and configuration of different operating systems</li>
+        <li>Troubleshoot multiple OS issues</li>
+
+      </ul>
     </div>
 </div>
 
 <div class="accordion">
     <div class="accordion-header">
-      <div class="accordion-title">Fifth Volunteer Opportunity</div>
+      <div class="accordion-title">Fifth Course - <strong>Database Management</strong></div>
       <span class="accordion-icon">+</span>
     </div>
     <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </div>
-</div>
+      <ul>
+        <h1>Tasks Completed in Course:</h1>
 
+        <li>Discussed past and current database concepts</li>
+        <li>Learned about various data structures</li>
+        <li>Experienced different security and interfaces</li>
 
-
-
-
-</section>
-
-
-
-
-
-
-
-<section id="education">
-
-<h2>Education</h2>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title">Bachelor's Degree - <strong>2014</strong></div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        <ul>
-          <li>First task I completed</li>
-
-        </ul>
-    </div>
-</div>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title">Second Volunteer Opportunity</div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </div>
-</div>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title">Third Volunteer Opportunity</div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </div>
-</div>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title">Fourth Volunteer Opportunity</div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </div>
-</div>
-
-<div class="accordion">
-    <div class="accordion-header">
-      <div class="accordion-title">Fifth Volunteer Opportunity</div>
-      <span class="accordion-icon">+</span>
-    </div>
-    <div class="accordion-content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </ul>
     </div>
 </div>
 
@@ -213,9 +174,6 @@ for (let i = 0; i < accordionHeaders.length; i++) {
     accordionIcons[i].innerHTML = accordionContents[i].style.display == 'block' ? '-' : '+';
   });
 }
-
-
-
 
 </script>
 
