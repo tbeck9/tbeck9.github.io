@@ -42,6 +42,7 @@
     <li>Text - (717) 405-2729</li>
     <li>Instagram DM - @TannerBeckkk</li>
     <li>Twitter DM - @TannerDBeck</li>
+    <li>GitHub Linked at Top Left of the Page!</li>
   </ul>
   
 </body>
