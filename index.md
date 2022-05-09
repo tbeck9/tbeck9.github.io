@@ -168,7 +168,7 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 # Honors and Awards
 # Organizations, Clubs, Teams, Athletics, Causes, Charities
 
-# Contact Fields (Email, Phone, Social Media)
+# Contact Me
   
 <body>
 
