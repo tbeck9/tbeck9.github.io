@@ -36,10 +36,10 @@
 Select your which account you would like to see!:
 
 <select id="background" onchange="aboutSelector(this)">
-  <option value="youtube">youtube</option>
-  <option value="github">github</option>
-  <option value="twitch">twitch</option>
-  <option value="winter">Winter</option>
+  <option value="YouTube">YouTube</option>
+  <option value="GitHub">GitHub</option>
+  <option value="Twitch">Twitch</option>
+  <option value="Winter">Winter</option>
 
 </select>
 
@@ -64,32 +64,32 @@ function seasonSelector(selectElem) {
 
   var optionValue = selectElem.options[i].value;
 
-  if (optionValue === "youtube") {
+  if (optionValue === "YouTube") {
     document.body.style.backgroundColor = "#ffb6c1";
     document.getElementById("about-title").innerHTML = "YouTube";
     document.getElementById("about-explination").innerHTML = "This is my YouTube! Usually starts to warm up and is assosiated with rain!";
     document.getElementById("about-image").src="images/YT for website.png";
   }
-  else if (optionValue === "github") {
+  else if (optionValue === "GitHub") {
     document.body.style.backgroundColor = "#FFFF00";
     document.getElementById("about-title").innerHTML = "GitHub";
     document.getElementById("about-explination").innerHTML = "This is my GitHub! This season is assosiated with hot days and the beach!";
     document.getElementById("about-image").src="images/summer.jpg";
   }
-  else if (optionValue === "twitch") {
+  else if (optionValue === "Twitch") {
     document.body.style.backgroundColor = "#FFA500";
     document.getElementById("about-title").innerHTML = "Twitch";
     document.getElementById("about-explination").innerHTML = "This is my Twitch! This season is assosiated with pumpkins and Halloween!";
     document.getElementById("about-image").src="images/autumn-leaves_207019997.jpeg";
   }
-  else if (optionValue === "winter") {
+  else if (optionValue === "Winter") {
     document.body.style.backgroundColor = "#d6ecef ";
     document.getElementById("about-title").innerHTML = "Winter";
     document.getElementById("about-explination").innerHTML = "This is Winter! This season is associated with cold days and my favorite... Snowboarding!";
     document.getElementById("about-image").src="images/winter.jpg";
   }
   else {
-    document.write("I have malfunctioned! Please refresh.");
+    document.write("Something went wrong! Please refresh.");
   }
 }
 
