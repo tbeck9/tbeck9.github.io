@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
 <style>
 
   body {
@@ -11,15 +15,90 @@
   @include background(linear_gradient(#2a2a29, #1c1c1c));
 }
   
+  img {
+  margin: 0px 0px 8px;
+  width: 100%;
+  max-width: 100%;
+}
+  
 </style>
 
+<title>More About Me!</title>
+
+<h1> More About Me!</h1>
+
+ <h2 id="about-title">YouTube</h2>
+  
+<p>This is the Seasons project I was able to complete during the Semester. When you choose a season the color and picture will change!</p>
+
+<form>
+
+Select your favorite season to change the websites' Season!:
+
+<select id="background" onchange="aboutSelector(this)">
+  <option value="youtube">youtube</option>
+  <option value="github">github</option>
+  <option value="twitch">twitch</option>
+  <option value="winter">Winter</option>
+
+</select>
+
+</form>
+  
+  <p id="season-explination">This is Spring! Usually starts to warm up and is assosiated with rain!</p>
+
+<figure>
+  <img width="500" id="season-image" alt="" src="images/spring-1373199.jpg" />
+</figure>
+
+
+<script>
+
+
+
+function seasonSelector(selectElem) {
+  var i = selectElem.selectedIndex;
+  if (i < 0) {
+    return;
+  }
+
+  var optionValue = selectElem.options[i].value;
+
+  if (optionValue === "youtube") {
+    document.body.style.backgroundColor = "#ffb6c1";
+    document.getElementById("about-title").innerHTML = "youtube";
+    document.getElementById("about-explination").innerHTML = "This is my YouTube! Usually starts to warm up and is assosiated with rain!";
+    document.getElementById("about-image").src="images/spring-1373199.jpg";
+  }
+  else if (optionValue === "github") {
+    document.body.style.backgroundColor = "#FFFF00";
+    document.getElementById("about-title").innerHTML = "github";
+    document.getElementById("about-explination").innerHTML = "This is my GitHub! This season is assosiated with hot days and the beach!";
+    document.getElementById("about-image").src="images/summer.jpg";
+  }
+  else if (optionValue === "twitch") {
+    document.body.style.backgroundColor = "#FFA500";
+    document.getElementById("about-title").innerHTML = "twitch";
+    document.getElementById("about-explination").innerHTML = "This is my Twitch! This season is assosiated with pumpkins and Halloween!";
+    document.getElementById("about-image").src="images/autumn-leaves_207019997.jpeg";
+  }
+  else if (optionValue === "winter") {
+    document.body.style.backgroundColor = "#d6ecef ";
+    document.getElementById("about-title").innerHTML = "Winter";
+    document.getElementById("about-explination").innerHTML = "This is Winter! This season is associated with cold days and my favorite... Snowboarding!";
+    document.getElementById("about-image").src="images/winter.jpg";
+  }
+  else {
+    document.write("I have malfunctioned! Please refresh.");
+  }
+}
+
+
+</script>
 
 
 
 
-# Name
-# Headshot (Photo)
+</body>
 
-
-# Skills
-# Featured Projects aka some assingments
+</html>
