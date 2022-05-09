@@ -159,5 +159,5 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 # Contact Me
   
-  <a href="about.html" title="Contact Page">Contact Me!</a>
+  <a href="contact.html" title="Contact Page">Contact Me!</a>
 
