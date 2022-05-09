@@ -6,8 +6,6 @@
 
 # Education
 
-// classes accordion added to education
-
 <style>
 
 .accordion {
