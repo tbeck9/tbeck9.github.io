@@ -5,26 +5,8 @@
 # Contact Fields (Email, Phone, Social Media)
 
 # Education
-# Previous Job Experience
-# Skills
 
-# Featured Projects
-# Portfolio
-# Case Studies
-
-# Licenses and Certifications
-# Courses Taken
-# Internships
-# Volunteer Work
-
-# Publications and Patents
-# Honors and Awards
-# Test Scores
-# Languages
-# Organizations, Clubs, Teams, Athletics, Causes, Charities
-
-
-
+// classes accordion added to education
 
 <style>
 
@@ -183,44 +165,19 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 
 
-<h2>About</h2>
-
-<script type="text/javascript">
-
-let pageView = 0;
-let siteTitle = "tannerbeck.com"
-let pageTitle = 'All About Me';
-let pageAuthor = 'Tanner Beck';
-
-function pageTitles() {
-
-  document.write(pageTitle);
-}
 
 
-function pageAuthors() {
-  document.write(pageAuthor);
-}
+# Previous Job Experience
+# Skills
 
+# Featured Projects
+# Case Studies
 
-function pageViews() {
-  pageView++;
-  document.write(pageView);
-}
+# Licenses and Certifications
+# Courses Taken
+# Internships
+# Volunteer Work
 
-
-pageTitles();
-pageAuthors();
-pageViews();
-
-
-
-</script>
-
-<h1 class="page-title"><script>pageTitles();</script></h1>
-<p>by: <script>pageAuthors();</script></p>
-<small><script>pageViews();</script></small>
-
-<h2>Portfolio</h2>
-
-<h2>Contact</h2>
+# Publications and Patents
+# Honors and Awards
+# Organizations, Clubs, Teams, Athletics, Causes, Charities
