@@ -2,7 +2,7 @@
 # Headshot (Photo)
 
 # Education
-
+<a href="education.html" title="My Classes Taken">My Classes Taken!</a>
 <style>
 
 .accordion {
