@@ -42,29 +42,29 @@ Season Selector
 
 <p><a class="button" href="/about">Learn More About Me</a></p>
 
-<h2>Portfolio</h2>
+<h2>My Website</h2>
 
 <div class="portfolio-card">
 
-    <h3>Seasons JavaScript Application</h3>
-    <p>This is an application that changes the content of the page based on the season that is selected.</p>
-    <a class="button" href="/seasons">Change the Seasons</a>
+    <h3>About Me</h3>
+    <p>Information about me.</p>
+    <a class="button" href="/about.html">About Page</a>
 
 </div>
 
 <div class="portfolio-card">
 
-    <h3>Giving Tree Web Application</h3>
-    <p>This is a web application that displays names on leaves as they go across the screen and lightboxes and image when touched.</p>
-    <a class="button" href="/touchscreen/">See the Images</a>
+    <h3>Education Accordion</h3>
+    <p>Recent Relevant Classes that I have taken</p>
+    <a class="button" href="/education.html">Relevant Classes Taken Page</a>
 
 </div>
 
 <div class="portfolio-card">
 
-    <h3>RPG</h3>
-    <p>This is a sample web game created by RPG Maker MZ as a proof of concept of a game running on a live website. </p>
-    <a class="button" href="/game">Play the Game</a>
+    <h3>List of Something</h3>
+    <p>List of something that will change</p>
+    <a class="button" href="/contact.html">Random List Page</a>
 
 </div>
 
