@@ -172,11 +172,13 @@ for (let i = 0; i < accordionHeaders.length; i++) {
   
 <body>
 
-  Contact Methods:
+  <h1>Contact Methods:</h1>
   
+  <ul>
        Email - t.beck1099@gmail.com 
        Text - (717) 405-2729 
        Instagram DM - @TannerBeckkk
        Twitter DM - @TannerDBeck
-
+  </ul>
+  
 </body>
