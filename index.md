@@ -170,8 +170,7 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 # Contact Fields (Email, Phone, Social Media)
   
-<style>
-    <script type="text/javascript">
+<body>
 
         let options = ['Email - t.beck1099@gmail.com', 'Text - (717) 405-2729', 'Instagram DM - @TannerBeckkk', 'Twitter DM - @TannerDBeck']
 
@@ -186,7 +185,4 @@ for (let i = 0; i < accordionHeaders.length; i++) {
         }
         document.write('</ol>');
 
-  </script>
-  </body>
-</style>
-
+</body>
