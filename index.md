@@ -26,7 +26,7 @@
 
     <h3>List of Something</h3>
     <p>List of something that will change</p>
-    <a class="button" href="/contact.html" style="color:#ffffff;">Random List Page</a>
+    <a class="button" href="/list.html" style="color:#ffffff;">Random List Page</a>
 
 </div>
 
