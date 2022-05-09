@@ -159,6 +159,10 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 # Contact Me
   
+  <a href="about.html" title="About Me">About Me</a>
+  
+  
+  
 <body>
 
   Methods:
