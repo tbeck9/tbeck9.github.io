@@ -24,9 +24,9 @@
 
 <div class="content-boxes">
 
-    <h3>List of Something</h3>
-    <p>List of something that will change</p>
-    <a class="button" href="/list.html" style="color:#ffffff;">Random List Page</a>
+    <h3>Next Semester</h3>
+    <p>List of classes that I am taking next semester</p>
+    <a class="button" href="/list.html" style="color:#ffffff;">Classes Next Semester Page</a>
 
 </div>
 
