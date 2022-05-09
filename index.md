@@ -30,25 +30,7 @@
 
 </div>
 
-  
 
-
-
-
-
-
-
-
-
-
-# Name
-# Headshot (Photo)
-
-
-# Skills
-# Featured Projects
-
-Season Selector
 
 # Contact Me
   
