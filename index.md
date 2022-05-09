@@ -6,7 +6,7 @@
 
 <h2>Website Contents</h2>
 
-<div class="portfolio-card">
+<div class="content-boxes">
 
     <h3>About Me</h3>
     <p>Information about me.</p>
@@ -14,7 +14,7 @@
 
 </div>
 
-<div class="portfolio-card">
+<div class="content-boxes">
 
     <h3>Education</h3>
     <p>Recent relevant classes that I have taken in an operating accordion</p>
@@ -22,7 +22,7 @@
 
 </div>
 
-<div class="portfolio-card">
+<div class="content-boxes">
 
     <h3>List of Something</h3>
     <p>List of something that will change</p>
