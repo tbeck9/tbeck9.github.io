@@ -16,8 +16,8 @@
 
 <div class="portfolio-card">
 
-    <h3>Education Accordion</h3>
-    <p>Recent relevant classes that I have taken</p>
+    <h3>Education</h3>
+    <p>Recent relevant classes that I have taken in an operating accordion</p>
     <a class="button" href="/education.html">Relevant Courses Taken Page</a>
 
 </div>
@@ -44,8 +44,6 @@
 # Name
 # Headshot (Photo)
 
-# Education
-<a href="education.html" title="My Classes Taken">My Classes Taken!</a>
 
 # Skills
 # Featured Projects
@@ -65,18 +63,6 @@ Season Selector
   </ul>
   
 </body>
-  
-  <a href="contact.html" title="Contact Page">Contact Me!</a>
-  
-  < href="github.com/tbeck9" title="My GitHub">My GitHub!</a>
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
