@@ -17,8 +17,8 @@
 <div class="portfolio-card">
 
     <h3>Education Accordion</h3>
-    <p>Recent Relevant Classes that I have taken</p>
-    <a class="button" href="/education.html">Relevant Classes Taken Page</a>
+    <p>Recent relevant classes that I have taken</p>
+    <a class="button" href="/education.html">Relevant Courses Taken Page</a>
 
 </div>
 
