@@ -39,7 +39,7 @@ Select which account you would like to see!:
   <option value="YouTube">YouTube</option>
   <option value="GitHub">GitHub</option>
   <option value="Twitch">Twitch</option>
-  <option value="Winter">Winter</option>
+  <option value="Spotify">Spotify</option>
 
 </select>
 
@@ -82,11 +82,11 @@ function aboutSelector(selectElem) {
     document.getElementById("about-bio").innerHTML = "This is my Twitch account! When I have time I like to stream and this is my preferred platform to do that on.";
     document.getElementById("about-image").src="images/twitch for website.PNG";
   }
-  else if (optionValue === "Winter") {
-    document.body.style.backgroundColor = "#d6ecef ";
-    document.getElementById("about-title").innerHTML = "Winter";
-    document.getElementById("about-bio").innerHTML = "This is Winter! This season is associated with cold days and my favorite... Snowboarding!";
-    document.getElementById("about-image").src="images/winter.jpg";
+  else if (optionValue === "Spotify") {
+    document.body.style.backgroundColor = "#1DB954 ";
+    document.getElementById("about-title").innerHTML = "Spotify";
+    document.getElementById("about-bio").innerHTML = "This is my Spotify account! I listen to music everyday and Spotify helps me put music I like into playlists";
+    document.getElementById("about-image").src="images/spotify for website.PNG";
   }
   else {
     document.write("Something went wrong! Please refresh.");
