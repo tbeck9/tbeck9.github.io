@@ -1,7 +1,5 @@
 # Name
 # Headshot (Photo)
-# Job Title or Desired Title (Web and Mobile Applications Developer)
-# Job or Desired Job Summary
 
 # Education
 
@@ -156,17 +154,8 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 </script>
 
-# Previous Job Experience
 # Skills
 # Featured Projects
-# Case Studies
-# Licenses and Certifications
-# Courses Taken
-# Internships
-# Volunteer Work
-# Publications and Patents
-# Honors and Awards
-# Organizations, Clubs, Teams, Athletics, Causes, Charities
 
 # Contact Me
   
