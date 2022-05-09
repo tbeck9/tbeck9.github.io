@@ -1,6 +1,8 @@
-<p><strong>Web and Mobile Applications Developer</strong></p>
+<p><strong>Information Technology/Business Analyst (BS)</strong></p>
 
-<p>I am a web and mobile applications developer for NC State University. I am responsible for web and application development support for the central university website. I also create and maintain other key constituent sites, micro-sites and online marketing communication efforts as well as web development and strategy for the College of Education.</p>
+<p>I am currently enrolled at Mount Aloysius College for Information Technology. I am originally from Lancaster Pennsylvania
+   and wanted to stay in Pennsylvania for education. I have always enjoyed working with computers and technology in general
+   so IT was a great fit. The fact that technology is always evolving each and every day, keeps me involved at all times!</p>
 
 <p><a class="button" href="/about">Learn More About Me</a></p>
 
