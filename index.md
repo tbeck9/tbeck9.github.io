@@ -42,7 +42,7 @@ Season Selector
 
 <p><a class="button" href="/about">Learn More About Me</a></p>
 
-<h2>My Website</h2>
+<h2>Website Contents</h2>
 
 <div class="portfolio-card">
 
