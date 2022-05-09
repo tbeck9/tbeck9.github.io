@@ -45,7 +45,7 @@ Select which account you would like to see!:
 
 </form>
   
-  <p id="about-explination">This is my YouTube account! I usually upload whenever I have the chance and all of my content is gaming on various titles.</p>
+  <p id="about-bio">This is my YouTube account! I usually upload whenever I have the chance and all of my content is gaming on various titles.</p>
 
 <figure>
   <img width="500" id="about-image" alt="" src="images/YT for website.PNG" />
@@ -67,25 +67,25 @@ function aboutSelector(selectElem) {
   if (optionValue === "YouTube") {
     document.body.style.backgroundColor = "#FF0000";
     document.getElementById("about-title").innerHTML = "YouTube";
-    document.getElementById("about-explination").innerHTML = "This is my YouTube account! I usually upload whenever I have the chance and all of my content is gaming on various titles.";
+    document.getElementById("about-bio").innerHTML = "This is my YouTube account! I usually upload whenever I have the chance and all of my content is gaming on various titles.";
     document.getElementById("about-image").src="images/YT for website.PNG";
   }
   else if (optionValue === "GitHub") {
     document.body.style.backgroundColor = "#4d8fac";
     document.getElementById("about-title").innerHTML = "GitHub";
-    document.getElementById("about-explination").innerHTML = "This is my GitHub account! This is where I will be updating code that I have written including this website!";
+    document.getElementById("about-bio").innerHTML = "This is my GitHub account! This is where I will be updating code that I have written including this website!";
     document.getElementById("about-image").src="images/git for website.PNG";
   }
   else if (optionValue === "Twitch") {
     document.body.style.backgroundColor = "#9146FF";
     document.getElementById("about-title").innerHTML = "Twitch";
-    document.getElementById("about-explination").innerHTML = "This is my Twitch account! When I have time I like to stream and this is my preferred platform to do that on.";
+    document.getElementById("about-bio").innerHTML = "This is my Twitch account! When I have time I like to stream and this is my preferred platform to do that on.";
     document.getElementById("about-image").src="images/twitch for website.PNG";
   }
   else if (optionValue === "Winter") {
     document.body.style.backgroundColor = "#d6ecef ";
     document.getElementById("about-title").innerHTML = "Winter";
-    document.getElementById("about-explination").innerHTML = "This is Winter! This season is associated with cold days and my favorite... Snowboarding!";
+    document.getElementById("about-bio").innerHTML = "This is Winter! This season is associated with cold days and my favorite... Snowboarding!";
     document.getElementById("about-image").src="images/winter.jpg";
   }
   else {
