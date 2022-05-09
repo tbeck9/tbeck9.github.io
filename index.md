@@ -2,7 +2,6 @@
 # Headshot (Photo)
 # Job Title or Desired Title (Web and Mobile Applications Developer)
 # Job or Desired Job Summary
-# Contact Fields (Email, Phone, Social Media)
 
 # Education
 
@@ -157,25 +156,36 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 </script>
 
-
-
-
-
-
-
-
-
 # Previous Job Experience
 # Skills
-
 # Featured Projects
 # Case Studies
-
 # Licenses and Certifications
 # Courses Taken
 # Internships
 # Volunteer Work
-
 # Publications and Patents
 # Honors and Awards
 # Organizations, Clubs, Teams, Athletics, Causes, Charities
+
+# Contact Fields (Email, Phone, Social Media)
+  
+    <script type="text/javascript">
+//list of options of contact
+        let options = ['Email - t.beck1099@gmail.com', 'Text - (717) 405-2729', 'Instagram DM - @TannerBeckkk', 'Twitter DM - @TannerDBeck']
+//# of options
+        let numberOfOptions = 4;
+//header
+        document.write('<h1>Contact Methods</h1>')
+        document.write('<ol>');
+        for (let alertLoopNumber = 0; alertLoopNumber < numberOfOptions; alertLoopNumber++) {
+          document.write('<ol>');
+          document.write(options[alertLoopNumber]);
+          document.write('</ol>');
+        }
+        document.write('</ol>');
+
+  </script>
+
+  </body>
+
