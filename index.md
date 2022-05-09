@@ -4,7 +4,7 @@
    and wanted to stay in Pennsylvania for education. I have always enjoyed working with computers and technology in general
    so IT was a great fit. The fact that technology is always evolving each and every day, keeps me involved at all times!</p>
 
-<h2>Website Contents</h2>
+# Website Contents
 
 <div class="content-boxes">
 
