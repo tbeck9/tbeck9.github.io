@@ -10,7 +10,7 @@
 
     <h3>About Me</h3>
     <p>Information about me.</p>
-    <a class="button" href="/about.html">About Page</a>
+    <a class="button" href="/about.html" style="color:#ffffff;">About Page</a>
 
 </div>
 
@@ -18,7 +18,7 @@
 
     <h3>Education</h3>
     <p>Recent relevant classes that I have taken in an operating accordion</p>
-    <a class="button" href="/education.html">Relevant Courses Taken Page</a>
+    <a class="button" href="/education.html" style="color:#ffffff;">Relevant Courses Taken Page</a>
 
 </div>
 
