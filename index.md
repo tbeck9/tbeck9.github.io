@@ -159,19 +159,5 @@ for (let i = 0; i < accordionHeaders.length; i++) {
 
 # Contact Me
   
-  <a href="about.html" title="About Me">About Me</a>
-  
-  
-  
-<body>
+  <a href="about.html" title="Contact Page">Contact Me!</a>
 
-  Methods:
-  
-  <ul>
-    <li>Email - t.beck1099@gmail.com</li>
-    <li>Text - (717) 405-2729</li>
-    <li>Instagram DM - @TannerBeckkk</li>
-    <li>Twitter DM - @TannerDBeck</li>
-  </ul>
-  
-</body>
