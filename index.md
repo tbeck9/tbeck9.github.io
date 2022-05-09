@@ -172,7 +172,7 @@ for (let i = 0; i < accordionHeaders.length; i++) {
   
 <body>
 
-  Contact Methods:
+  Methods:
   
   <ul>
     <li>Email - t.beck1099@gmail.com</li>
