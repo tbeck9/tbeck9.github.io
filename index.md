@@ -8,7 +8,7 @@
 
 <div class="content-boxes">
 
-    <h2>More About Me</h2>
+    <h3>More About Me</h3>
     <p>More information about me that you may want to know</p>
     <a class="button" href="/about.html" style="color:#ffffff;">About Page</a>
 
