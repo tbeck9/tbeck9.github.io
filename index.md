@@ -17,7 +17,7 @@
 <div class="content-boxes">
 
     <h3>Education</h3>
-    <p>Recent relevant classes that I have taken in an operating accordion</p>
+    <p>Recent relevant courses that I have taken, shown in an operating accordion</p>
     <a class="button" href="/education.html" style="color:#ffffff;">Relevant Courses Taken Page</a>
 
 </div>
